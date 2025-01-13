@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 I'm Yassir Kebieb😉, Coding Student 👨🏻‍💻 from Morocco.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&width=500&lines=Student+at+1337+Coding+School;Passionate+about+CyberSecurity+and+Gamedev+  )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&width=500&lines=Student+at+1337+Coding+School;Passionate+about+CyberSec+and+Gamedev  )](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://badge.mediaplus.ma/levi/ykebieb?UM6P=off">
