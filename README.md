@@ -33,11 +33,10 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kebiebyassir&theme=material-palenight"/>
 </a>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <hr />
 
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 -----
 Credits: [kebiebyassir](https://github.com/kebiebyassir)
 
