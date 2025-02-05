@@ -1,4 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 I'm Yassir Kebieb😉, Coding Student 👨🏻‍💻 from Morocco.
@@ -34,10 +35,7 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 </a>
 
 <hr />
------
-Credits: [kebiebyassir](https://github.com/kebiebyassir)
 
-Last Edited on: 27/11/2024
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
