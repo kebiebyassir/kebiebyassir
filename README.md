@@ -34,10 +34,10 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 </a>
 
 <hr />
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 -----
 Credits: [kebiebyassir](https://github.com/kebiebyassir)
 
 Last Edited on: 27/11/2024
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
