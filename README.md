@@ -5,7 +5,7 @@ I'm Yassir Kebieb😉, Coding Student 👨🏻‍💻 from Morocco.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&width=500&lines=Student+at+1337+Coding+School;Passionate+about+CyberSec+and+Gamedev  )
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ykebieb" alt="ykebieb's 42 stats" /></a>
+<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ykebieb" alt="ykebieb's 42 stats" /></a> </p>
 
 In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
 
