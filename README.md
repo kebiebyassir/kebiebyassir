@@ -9,7 +9,8 @@ I'm Yassir Kebieb😉, Coding Student 👨🏻‍💻 from Morocco.
 
 In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
 
 
 
